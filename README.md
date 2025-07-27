@@ -1,1 +1,3 @@
 # -responsive-landing-page-
+
+This project is a fully responsive and interactive landing page developed using HTML, CSS, and JavaScript. It features a fixed navigation bar that changes style on scroll, smooth scrolling to different sections, hover effects for better user experience, and a mobile-friendly hamburger menu for smaller screens. The landing page includes structured sections like Home, Features, About, and Contact, along with a visually engaging background image and a dark/light mode toggle to enhance user personalization. The design is clean, modern, and built from scratch without using any external frameworks, making it a great demonstration of core frontend development skills and responsive design principles.
